@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="robopods-facebook-ios-1.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robovm/robopods-facebook-ios/1.9.0/d806179ee81b91335cfc374620975ec777995bc1/robopods-facebook-ios-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robovm/robopods-facebook-ios/1.9.0/f0a75976674cca001016849260f400593095a98b/robopods-facebook-ios-1.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
